@@ -1,0 +1,328 @@
+
+
+-Epoch 1/50 Learning...
+ train loss:1.2309
+ val: acc_loc_pred=0.7752
+ test: acc_loc_pred=0.7765
+ ====> Saving best model in epoch 1
+
+
+-Epoch 2/50 Learning...
+ train loss:0.7555
+ val: acc_loc_pred=0.8567
+ test: acc_loc_pred=0.8623
+ ====> Saving best model in epoch 2
+
+
+-Epoch 3/50 Learning...
+ train loss:0.6214
+ val: acc_loc_pred=0.8950
+ test: acc_loc_pred=0.8967
+ ====> Saving best model in epoch 3
+
+
+-Epoch 4/50 Learning...
+ train loss:0.5617
+ val: acc_loc_pred=0.9100
+ test: acc_loc_pred=0.9095
+ ====> Saving best model in epoch 4
+
+
+-Epoch 5/50 Learning...
+ train loss:0.5279
+ val: acc_loc_pred=0.9209
+ test: acc_loc_pred=0.9200
+ ====> Saving best model in epoch 5
+
+
+-Epoch 6/50 Learning...
+ train loss:0.5063
+ val: acc_loc_pred=0.9249
+ test: acc_loc_pred=0.9292
+ ====> Saving best model in epoch 6
+
+
+-Epoch 7/50 Learning...
+ train loss:0.4913
+ val: acc_loc_pred=0.9278
+ test: acc_loc_pred=0.9321
+ ====> Saving best model in epoch 7
+
+
+-Epoch 8/50 Learning...
+ train loss:0.4792
+ val: acc_loc_pred=0.9321
+ test: acc_loc_pred=0.9354
+ ====> Saving best model in epoch 8
+
+
+-Epoch 9/50 Learning...
+ train loss:0.4706
+ val: acc_loc_pred=0.9328
+ test: acc_loc_pred=0.9345
+ ====> Saving best model in epoch 9
+
+
+-Epoch 10/50 Learning...
+ train loss:0.4628
+ val: acc_loc_pred=0.9413
+ test: acc_loc_pred=0.9387
+ ====> Saving best model in epoch 10
+
+
+-Epoch 11/50 Learning...
+ train loss:0.4559
+ val: acc_loc_pred=0.9423
+ test: acc_loc_pred=0.9373
+ ====> Saving best model in epoch 11
+
+
+-Epoch 12/50 Learning...
+ train loss:0.4499
+ val: acc_loc_pred=0.9430
+ test: acc_loc_pred=0.9409
+ ====> Saving best model in epoch 12
+
+
+-Epoch 13/50 Learning...
+ train loss:0.4444
+ val: acc_loc_pred=0.9451
+ test: acc_loc_pred=0.9416
+ ====> Saving best model in epoch 13
+
+
+-Epoch 14/50 Learning...
+ train loss:0.4396
+ val: acc_loc_pred=0.9449
+ test: acc_loc_pred=0.9435
+
+
+-Epoch 15/50 Learning...
+ train loss:0.4352
+ val: acc_loc_pred=0.9454
+ test: acc_loc_pred=0.9442
+ ====> Saving best model in epoch 15
+
+
+-Epoch 16/50 Learning...
+ train loss:0.4313
+ val: acc_loc_pred=0.9456
+ test: acc_loc_pred=0.9459
+ ====> Saving best model in epoch 16
+
+
+-Epoch 17/50 Learning...
+ train loss:0.4278
+ val: acc_loc_pred=0.9461
+ test: acc_loc_pred=0.9459
+ ====> Saving best model in epoch 17
+
+
+-Epoch 18/50 Learning...
+ train loss:0.4251
+ val: acc_loc_pred=0.9449
+ test: acc_loc_pred=0.9456
+
+
+-Epoch 19/50 Learning...
+ train loss:0.4221
+ val: acc_loc_pred=0.9439
+ test: acc_loc_pred=0.9470
+
+
+-Epoch 20/50 Learning...
+ train loss:0.4196
+ val: acc_loc_pred=0.9449
+ test: acc_loc_pred=0.9461
+
+
+-Epoch 21/50 Learning...
+ train loss:0.4176
+ val: acc_loc_pred=0.9463
+ test: acc_loc_pred=0.9470
+ ====> Saving best model in epoch 21
+
+
+-Epoch 22/50 Learning...
+ train loss:0.4160
+ val: acc_loc_pred=0.9461
+ test: acc_loc_pred=0.9459
+
+
+-Epoch 23/50 Learning...
+ train loss:0.4142
+ val: acc_loc_pred=0.9465
+ test: acc_loc_pred=0.9454
+ ====> Saving best model in epoch 23
+
+
+-Epoch 24/50 Learning...
+ train loss:0.4125
+ val: acc_loc_pred=0.9461
+ test: acc_loc_pred=0.9470
+
+
+-Epoch 25/50 Learning...
+ train loss:0.4110
+ val: acc_loc_pred=0.9484
+ test: acc_loc_pred=0.9470
+ ====> Saving best model in epoch 25
+
+
+-Epoch 26/50 Learning...
+ train loss:0.4097
+ val: acc_loc_pred=0.9470
+ test: acc_loc_pred=0.9482
+
+
+-Epoch 27/50 Learning...
+ train loss:0.4087
+ val: acc_loc_pred=0.9473
+ test: acc_loc_pred=0.9485
+
+
+-Epoch 28/50 Learning...
+ train loss:0.4078
+ val: acc_loc_pred=0.9477
+ test: acc_loc_pred=0.9499
+
+
+-Epoch 29/50 Learning...
+ train loss:0.4070
+ val: acc_loc_pred=0.9470
+ test: acc_loc_pred=0.9506
+
+
+-Epoch 30/50 Learning...
+ train loss:0.4058
+ val: acc_loc_pred=0.9468
+ test: acc_loc_pred=0.9511
+
+
+-Epoch 31/50 Learning...
+ train loss:0.4052
+ val: acc_loc_pred=0.9480
+ test: acc_loc_pred=0.9506
+
+
+-Epoch 32/50 Learning...
+ train loss:0.4046
+ val: acc_loc_pred=0.9494
+ test: acc_loc_pred=0.9494
+ ====> Saving best model in epoch 32
+
+
+-Epoch 33/50 Learning...
+ train loss:0.4042
+ val: acc_loc_pred=0.9494
+ test: acc_loc_pred=0.9508
+
+
+-Epoch 34/50 Learning...
+ train loss:0.4037
+ val: acc_loc_pred=0.9489
+ test: acc_loc_pred=0.9506
+
+
+-Epoch 35/50 Learning...
+ train loss:0.4033
+ val: acc_loc_pred=0.9489
+ test: acc_loc_pred=0.9506
+
+
+-Epoch 36/50 Learning...
+ train loss:0.4027
+ val: acc_loc_pred=0.9499
+ test: acc_loc_pred=0.9513
+ ====> Saving best model in epoch 36
+
+
+-Epoch 37/50 Learning...
+ train loss:0.4022
+ val: acc_loc_pred=0.9489
+ test: acc_loc_pred=0.9511
+
+
+-Epoch 38/50 Learning...
+ train loss:0.4016
+ val: acc_loc_pred=0.9503
+ test: acc_loc_pred=0.9508
+ ====> Saving best model in epoch 38
+
+
+-Epoch 39/50 Learning...
+ train loss:0.4011
+ val: acc_loc_pred=0.9503
+ test: acc_loc_pred=0.9513
+
+
+-Epoch 40/50 Learning...
+ train loss:0.4009
+ val: acc_loc_pred=0.9501
+ test: acc_loc_pred=0.9513
+
+
+-Epoch 41/50 Learning...
+ train loss:0.4006
+ val: acc_loc_pred=0.9508
+ test: acc_loc_pred=0.9525
+ ====> Saving best model in epoch 41
+
+
+-Epoch 42/50 Learning...
+ train loss:0.4002
+ val: acc_loc_pred=0.9513
+ test: acc_loc_pred=0.9520
+ ====> Saving best model in epoch 42
+
+
+-Epoch 43/50 Learning...
+ train loss:0.4000
+ val: acc_loc_pred=0.9506
+ test: acc_loc_pred=0.9518
+
+
+-Epoch 44/50 Learning...
+ train loss:0.3999
+ val: acc_loc_pred=0.9511
+ test: acc_loc_pred=0.9518
+
+
+-Epoch 45/50 Learning...
+ train loss:0.3997
+ val: acc_loc_pred=0.9511
+ test: acc_loc_pred=0.9513
+
+
+-Epoch 46/50 Learning...
+ train loss:0.3996
+ val: acc_loc_pred=0.9511
+ test: acc_loc_pred=0.9525
+
+
+-Epoch 47/50 Learning...
+ train loss:0.3994
+ val: acc_loc_pred=0.9511
+ test: acc_loc_pred=0.9518
+
+
+-Epoch 48/50 Learning...
+ train loss:0.3991
+ val: acc_loc_pred=0.9518
+ test: acc_loc_pred=0.9520
+ ====> Saving best model in epoch 48
+
+
+-Epoch 49/50 Learning...
+ train loss:0.3992
+ val: acc_loc_pred=0.9513
+ test: acc_loc_pred=0.9530
+
+
+-Epoch 50/50 Learning...
+ train loss:0.3990
+ val: acc_loc_pred=0.9518
+ test: acc_loc_pred=0.9530
+
+
+Final best result in epoch 48: acc_loc_pred=0.9520

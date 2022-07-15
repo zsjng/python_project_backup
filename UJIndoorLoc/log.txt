@@ -1,0 +1,150 @@
+seed:20220509  learning_rate:0.1
+Final best result in epoch 30: acc_loc_pred=0.6920
+
+seed:2  learning_rate:0.1
+Final best result in epoch 24: acc_loc_pred=0.7110
+
+seed:3  learning_rate:0.1
+Final best result in epoch 50: acc_loc_pred=0.6747
+
+seed:4  learning_rate:0.1
+Final best result in epoch 46: acc_loc_pred=0.7412
+
+seed:5  learning_rate:0.1
+Final best result in epoch 35: acc_loc_pred=0.7580
+
+seed:6  learning_rate:0.1
+Final best result in epoch 28: acc_loc_pred=0.7138
+
+seed:7  learning_rate:0.1
+Final best result in epoch 45: acc_loc_pred=0.7098
+
+seed:8  learning_rate:0.1
+Final best result in epoch 35: acc_loc_pred=0.7098
+
+seed:9  learning_rate:0.1
+Final best result in epoch 26: acc_loc_pred=0.7013
+
+seed:10  learning_rate:0.1
+Final best result in epoch 34: acc_loc_pred=0.7214
+
+seed:20220509  learning_rate:0.01
+Final best result in epoch 40: acc_loc_pred=0.6965
+
+seed:2  learning_rate:0.01
+Final best result in epoch 42: acc_loc_pred=0.6846
+
+seed:3  learning_rate:0.01
+Final best result in epoch 50: acc_loc_pred=0.6787
+
+seed:4  learning_rate:0.01
+Final best result in epoch 47: acc_loc_pred=0.6910
+
+seed:5  learning_rate:0.01
+Final best result in epoch 44: acc_loc_pred=0.6777
+
+seed:6  learning_rate:0.01
+Final best result in epoch 40: acc_loc_pred=0.6682
+
+seed:7  learning_rate:0.01
+Final best result in epoch 49: acc_loc_pred=0.6932
+
+seed:8  learning_rate:0.01
+Final best result in epoch 48: acc_loc_pred=0.6834
+
+seed:9  learning_rate:0.01
+Final best result in epoch 46: acc_loc_pred=0.6780
+
+seed:10  learning_rate:0.01
+Final best result in epoch 43: acc_loc_pred=0.6875
+
+seed:20220509  learning_rate:0.001
+Final best result in epoch 3: acc_loc_pred=0.7908
+
+seed:2  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.8250
+
+seed:3  learning_rate:0.001
+Final best result in epoch 48: acc_loc_pred=0.7651
+
+seed:4  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.8008
+
+seed:5  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.7972
+
+seed:6  learning_rate:0.001
+Final best result in epoch 2: acc_loc_pred=0.7742
+
+seed:7  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.7827
+
+seed:8  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.7991
+
+seed:9  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.7784
+
+seed:10  learning_rate:0.001
+Final best result in epoch 1: acc_loc_pred=0.7901
+
+seed:20220509  learning_rate:0.0001
+Final best result in epoch 7: acc_loc_pred=0.9359
+
+seed:2  learning_rate:0.0001
+Final best result in epoch 4: acc_loc_pred=0.9361
+
+seed:3  learning_rate:0.0001
+Final best result in epoch 4: acc_loc_pred=0.9380
+
+seed:4  learning_rate:0.0001
+Final best result in epoch 11: acc_loc_pred=0.9264
+
+seed:5  learning_rate:0.0001
+Final best result in epoch 7: acc_loc_pred=0.9269
+
+seed:6  learning_rate:0.0001
+Final best result in epoch 5: acc_loc_pred=0.9409
+
+seed:7  learning_rate:0.0001
+Final best result in epoch 5: acc_loc_pred=0.9402
+
+seed:8  learning_rate:0.0001
+Final best result in epoch 5: acc_loc_pred=0.9340
+
+seed:9  learning_rate:0.0001
+Final best result in epoch 6: acc_loc_pred=0.9411
+
+seed:10  learning_rate:0.0001
+Final best result in epoch 4: acc_loc_pred=0.9323
+
+seed:20220509  learning_rate:1e-05
+Final best result in epoch 50: acc_loc_pred=0.9565
+
+seed:2  learning_rate:1e-05
+Final best result in epoch 39: acc_loc_pred=0.9463
+
+seed:3  learning_rate:1e-05
+Final best result in epoch 48: acc_loc_pred=0.9523
+
+seed:4  learning_rate:1e-05
+Final best result in epoch 33: acc_loc_pred=0.9440
+
+seed:5  learning_rate:1e-05
+Final best result in epoch 33: acc_loc_pred=0.9497
+
+seed:6  learning_rate:1e-05
+Final best result in epoch 36: acc_loc_pred=0.9501
+
+seed:7  learning_rate:1e-05
+Final best result in epoch 26: acc_loc_pred=0.9561
+
+seed:8  learning_rate:1e-05
+Final best result in epoch 27: acc_loc_pred=0.9470
+
+seed:9  learning_rate:1e-05
+Final best result in epoch 45: acc_loc_pred=0.9487
+
+seed:10  learning_rate:1e-05
+Final best result in epoch 48: acc_loc_pred=0.9520
+

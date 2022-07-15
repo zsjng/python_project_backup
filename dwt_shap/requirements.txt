@@ -1,0 +1,18 @@
+# Install PyTorch, CUDA, etc. with mamba
+# >>> mamba create -n dwt-lpips python=3.9
+# >>> mamba install pytorch torchvision cudatoolkit=11.3 -c pytorch
+black
+flake8
+loguru
+click
+rich
+numpy
+matplotlib
+pandas
+ipywidgets
+opencv-python
+scipy
+ptwt
+einops
+lpips
+shap
